@@ -1,4 +1,3 @@
-# MeteoMaster
 <div align="center">
 
 # 🌦️ MeteoMaster
@@ -7,10 +6,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 ![JavaScript](https://img.shields.io/badge/Made%20with-JavaScript-f7df1e)
-![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black)
-![Status](https://img.shields.io/badge/status-live-brightgreen)
-
-[**🔗 Live Demo → meteo-master.vercel.app**](https://meteo-master.vercel.app)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![OpenWeather](https://img.shields.io/badge/API-OpenWeather-orange)
 
 </div>
 
@@ -18,7 +15,7 @@
 
 ## ✨ What it does
 
-Most weather sites bury the forecast under banners and popups. MeteoMaster does one thing well: type a city, get an accurate current-conditions and multi-day forecast on a single clean screen. It pulls real-time data straight from the OpenWeather API, so what you see is what the sky is actually doing.
+Most weather sites bury the forecast under banners and popups. MeteoMaster does one thing well: type a city, get accurate current conditions and a multi-day forecast on a single clean screen. It pulls real-time data straight from the OpenWeather API, so what you see is what the sky is actually doing.
 
 ## 🚀 Features
 
@@ -26,11 +23,10 @@ Most weather sites bury the forecast under banners and popups. MeteoMaster does 
 - **Live data** — current temperature, conditions, humidity, and wind from OpenWeather
 - **Multi-day outlook** — plan ahead at a glance
 - **Fast & lightweight** — no bloated frameworks, loads in a blink
-- **Deployed and free** — try it right now, no install
 
 ## 🛠️ Built with
 
-JavaScript · HTML · CSS · [OpenWeather API](https://openweathermap.org/api) · Deployed on Vercel
+JavaScript · HTML · CSS · [OpenWeather API](https://openweathermap.org/api)
 
 ## 🏁 Getting started (run it locally)
 
@@ -52,6 +48,7 @@ npx serve weather
 
 ## 🗺️ Roadmap
 
+- [ ] Deploy a public live demo
 - [ ] Geolocation ("weather near me" button)
 - [ ] Hourly forecast view
 - [ ] Light / dark theme toggle
@@ -74,4 +71,3 @@ MIT © Kerim Myratlyev — see [`LICENSE`](LICENSE).
 <div align="center">
 ⭐ Found this useful? A star helps more people discover it.
 </div>
-artnering with OpenWeather to bring you the most up-to-date and accurate weather information. Plan your days, explore new horizons, and stay one step ahead with our meteorological data
